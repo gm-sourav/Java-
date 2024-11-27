@@ -1,0 +1,39 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'22'
+-sourcepath
+'C:/Users/gmsou/OneDrive/Desktop/Java/JavaFirst/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/gmsou/OneDrive/Desktop/Java/JavaFirst/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'JavaFirst 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'JavaFirst 1.0-SNAPSHOT API'
+javafirst
+C:\Users\gmsou\OneDrive\Desktop\Java\JavaFirst\src\main\java = 1732441793523
+C:\Users\gmsou\OneDrive\Desktop\Java\JavaFirst\target\site\apidocs\allclasses-index.html = 1732709889677
+C:\Users\gmsou\OneDrive\Desktop\Java\JavaFirst\target\site\apidocs\allpackages-index.html = 1732709889682
+C:\Users\gmsou\OneDrive\Desktop\Java\JavaFirst\target\site\apidocs\element-list = 1732709889436
+C:\Users\gmsou\OneDrive\Desktop\Java\JavaFirst\target\site\apidocs\help-doc.html = 1732709889738
+C:\Users\gmsou\OneDrive\Desktop\Java\JavaFirst\target\site\apidocs\index-all.html = 1732709889718
+C:\Users\gmsou\OneDrive\Desktop\Java\JavaFirst\target\site\apidocs\index.html = 1732709889738
+C:\Users\gmsou\OneDrive\Desktop\Java\JavaFirst\target\site\apidocs\member-search-index.js = 1732709889688
+C:\Users\gmsou\OneDrive\Desktop\Java\JavaFirst\target\site\apidocs\module-search-index.js = 1732709889686
+C:\Users\gmsou\OneDrive\Desktop\Java\JavaFirst\target\site\apidocs\overview-tree.html = 1732709889617
+C:\Users\gmsou\OneDrive\Desktop\Java\JavaFirst\target\site\apidocs\package-search-index.js = 1732709889688
+C:\Users\gmsou\OneDrive\Desktop\Java\JavaFirst\target\site\apidocs\search.html = 1732709889737
+C:\Users\gmsou\OneDrive\Desktop\Java\JavaFirst\target\site\apidocs\tag-search-index.js = 1732709889688
+C:\Users\gmsou\OneDrive\Desktop\Java\JavaFirst\target\site\apidocs\type-search-index.js = 1732709889688
